@@ -21,6 +21,6 @@
         <property name="suffix" value=".jsp"/>
         <property name="exposeContextBeansAsAttributes" value="true"/>
     </bean>
-    <!--test-->
+    <!--testaa-->
     <context:component-scan base-package="example.controller"/>
 </beans>
